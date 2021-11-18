@@ -1,0 +1,19 @@
+version: "3.3"
+services:
+  backend:
+    build: backend
+    container_name: backend
+    ports:
+      - "61466:80"
+    environment:
+      IsDocker: 'true'
+  mongo:
+    image: mongo
+    container_name: db-mongo
+    ports: 
+      - "27018:27017"
+    volumes:
+      - ./init.js:/docker-entrypoint-initdb.d/init.js
+      
+
+

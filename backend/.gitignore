@@ -1,0 +1,5 @@
+.vs
+SecretMission/obj/*
+SecretMission/bin/*
+SecretMission.Tests/obj/*
+SecretMission.Tests/bin/*
