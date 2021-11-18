@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "sE+QhpSpbQWsGV/95/E2MDTTFneaVg/GEYKAbgW4cMK+nZ5jJ4mZK995fKOU54GCPOkrgft2VSlq34C4eqm+bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hartk\\source\\repos\\Align\\SecretMission\\SecretMission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hartk\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\mongodb.driver\\2.13.2\\mongodb.driver.2.13.2.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\mongodb.driver.core\\2.13.2\\mongodb.driver.core.2.13.2.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\hartk\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
